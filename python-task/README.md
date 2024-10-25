@@ -1,3 +1,5 @@
+With no prior aquintance to Device_file and named pipe I tried to illustrate my understanding so far with this 'solution'.
+
 # Python Task
 
 You're working on a Python project: your project has to collect data from a
